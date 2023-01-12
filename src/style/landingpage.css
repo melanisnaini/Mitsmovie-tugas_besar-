@@ -1,0 +1,27 @@
+.myBG {
+    height: 100vh;
+    background: "https://th.bing.com/th/id/R.abf19216a965010c541e2b0174968082?rik=abGxwZgkWNFkoQ&riu=http%3a%2f%2fwww.jatosmall.com%2fgallery_tenant%2f21cineplexbtc.jpg&ehk=Snmhjwk3Sb1hnC9UhTpGDSBaYTqWqiMKwcTRJEu4RwI%3d&risl=1&pid=ImgRaw&r=0";
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+
+
+.trending{
+  height: 100vh;  
+  background: "https://images.solopos.com/2022/01/Ilustrasi-layar-bioskop.jpg";
+  background-size: cover;
+}
